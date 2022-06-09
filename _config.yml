@@ -87,7 +87,7 @@ gitalk:
 google_analytics:
 
 utteranc:
-  repo: colinxu2020/maze# Your github repo path, also see: https://utteranc.es
+  repo: "colinxu2020/maze"# Your github repo path, also see: https://utteranc.es
   issue_term: pathname
 
 #
